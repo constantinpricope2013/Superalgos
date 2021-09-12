@@ -1,0 +1,112 @@
+{
+    "type": "User Profile",
+    "name": "constantinpricope2013",
+    "config": "{\n    \"signature\": {\n        \"message\": \"constantinpricope2013\",\n        \"messageHash\": \"0x5637cec9818fcb0d03cd24a222134fa19040601fc27a8e371cb5fad20ba28403\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x502c7e6b37e896af5d26a71e1ad02be5e19ae90a76300a4f6d092ab94791435e\",\n        \"s\": \"0x6c153222d50a07c155dbe823505ebc0aaf00ec55735e0d477b4035089f646b29\",\n        \"signature\": \"0x502c7e6b37e896af5d26a71e1ad02be5e19ae90a76300a4f6d092ab94791435e6c153222d50a07c155dbe823505ebc0aaf00ec55735e0d477b4035089f646b291c\"\n    }\n}",
+    "project": "Governance",
+    "tokenPowerSwitch": {
+        "type": "Token Power Switch",
+        "name": "New Token Power Switch",
+        "config": "{}",
+        "project": "Governance",
+        "tokenPowerSwitch": [],
+        "onboardingPrograms": {
+            "type": "Onboarding Programs",
+            "name": "New Onboarding Programs",
+            "config": "{}",
+            "project": "Governance",
+            "id": "6330cb66-3aa7-42c9-996c-ebf395cb418f",
+            "savedPayload": {
+                "position": {
+                    "x": 13830,
+                    "y": 10461.5
+                },
+                "targetPosition": {
+                    "x": 13530,
+                    "y": 10461.5
+                },
+                "floatingObject": {
+                    "isPinned": false,
+                    "isFrozen": false,
+                    "isCollapsed": false,
+                    "angleToParent": 1,
+                    "distanceToParent": 3,
+                    "arrangementStyle": 0
+                },
+                "uiObject": {
+                    "isRunning": false
+                }
+            }
+        },
+        "id": "26c53251-f40f-429b-801b-8d1384b6989b",
+        "savedPayload": {
+            "position": {
+                "x": 13530,
+                "y": 10461.5
+            },
+            "targetPosition": {
+                "x": 13230,
+                "y": 10461.5
+            },
+            "floatingObject": {
+                "isPinned": false,
+                "isFrozen": false,
+                "isCollapsed": false,
+                "angleToParent": 1,
+                "distanceToParent": 3,
+                "arrangementStyle": 0
+            },
+            "uiObject": {
+                "isRunning": false
+            }
+        }
+    },
+    "tokensMined": {
+        "type": "Tokens Mined",
+        "name": "New Tokens Mined",
+        "project": "Governance",
+        "id": "a4155022-4bc5-43ea-81fe-22df026416e3",
+        "savedPayload": {
+            "position": {
+                "x": 12930,
+                "y": 10461.5
+            },
+            "targetPosition": {
+                "x": 13230,
+                "y": 10461.5
+            },
+            "floatingObject": {
+                "isPinned": false,
+                "isFrozen": false,
+                "isCollapsed": false,
+                "angleToParent": 1,
+                "distanceToParent": 3,
+                "arrangementStyle": 0
+            },
+            "uiObject": {
+                "isRunning": false
+            }
+        }
+    },
+    "id": "4e494a15-f135-47bf-8551-cb01a11bf25a",
+    "savedPayload": {
+        "position": {
+            "x": 13230,
+            "y": 10461.5
+        },
+        "targetPosition": {
+            "x": 13230,
+            "y": 10461.5
+        },
+        "floatingObject": {
+            "isPinned": false,
+            "isFrozen": false,
+            "isCollapsed": false,
+            "angleToParent": 1,
+            "distanceToParent": 3,
+            "arrangementStyle": 0
+        },
+        "uiObject": {
+            "isRunning": false
+        }
+    }
+}
